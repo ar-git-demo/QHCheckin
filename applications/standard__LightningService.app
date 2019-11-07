@@ -13,9 +13,21 @@
     <tabs>standard-report</tabs>
     <tabs>standard-Dashboard</tabs>
     <tabs>standard-home</tabs>
+    <tabs>DL_Pro_Obj__c</tabs>
+    <tabs>URW_obj__c</tabs>
+    <tabs>Demo_Object_Checkin__c</tabs>
     <uiType>Lightning</uiType>
     <utilityBar>LightningService_UtilityBar</utilityBar>
     <workspaceConfig>
+        <mappings>
+            <tab>DL_Pro_Obj__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Demo_Object_Checkin__c</tab>
+        </mappings>
+        <mappings>
+            <tab>URW_obj__c</tab>
+        </mappings>
         <mappings>
             <tab>standard-Account</tab>
         </mappings>

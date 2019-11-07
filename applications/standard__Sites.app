@@ -4,4 +4,7 @@
     <isNavAutoTempTabsDisabled>false</isNavAutoTempTabsDisabled>
     <isNavPersonalizationDisabled>false</isNavPersonalizationDisabled>
     <tabs>standard-Chatter</tabs>
+    <tabs>DL_Pro_Obj__c</tabs>
+    <tabs>URW_obj__c</tabs>
+    <tabs>Demo_Object_Checkin__c</tabs>
 </CustomApplication>

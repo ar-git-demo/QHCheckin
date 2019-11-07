@@ -1,7 +1,8 @@
 public with sharing class BotController {
-
+//Playground Change Devin 5/15
     class HandlerMapping {
-        
+        //Fourth Line Starts here test
+        //Method declaration
         public String handlerClassName;
         public Pattern utterancePattern;
 
@@ -11,7 +12,8 @@ public with sharing class BotController {
         }
 
     }
-
+//Static 
+//Playground 1 Devin 5/15
     static List<HandlerMapping> handlerMappings;
     
     static {
@@ -19,7 +21,7 @@ public with sharing class BotController {
         System.debug(commands);
         List<HandlerMapping> mappings = new List<HandlerMapping>();
         for (Bot_Command__c command : commands) {
-			mappings.add(new HandlerMapping(command.apex_class__c, command.pattern__c));
+            mappings.add(new HandlerMapping(command.apex_class__c, command.pattern__c));
         }
         handlerMappings = mappings;
     }

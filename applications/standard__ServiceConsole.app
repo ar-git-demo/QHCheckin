@@ -179,7 +179,19 @@
     <tabs>standard-Case</tabs>
     <tabs>standard-Opportunity</tabs>
     <tabs>standard-Lead</tabs>
+    <tabs>DL_Pro_Obj__c</tabs>
+    <tabs>URW_obj__c</tabs>
+    <tabs>Demo_Object_Checkin__c</tabs>
     <workspaceConfig>
+        <mappings>
+            <tab>DL_Pro_Obj__c</tab>
+        </mappings>
+        <mappings>
+            <tab>Demo_Object_Checkin__c</tab>
+        </mappings>
+        <mappings>
+            <tab>URW_obj__c</tab>
+        </mappings>
         <mappings>
             <tab>standard-Account</tab>
         </mappings>

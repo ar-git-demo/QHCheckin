@@ -9,4 +9,7 @@
     <tabs>standard-OtherUserProfile</tabs>
     <tabs>standard-CollaborationGroup</tabs>
     <tabs>standard-File</tabs>
+    <tabs>DL_Pro_Obj__c</tabs>
+    <tabs>URW_obj__c</tabs>
+    <tabs>Demo_Object_Checkin__c</tabs>
 </CustomApplication>

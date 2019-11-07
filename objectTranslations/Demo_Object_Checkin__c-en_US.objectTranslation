@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>Demo Object Checkin</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>objs</value>
+    </caseValues>
+    <fields>
+        <label><!-- Prop Demo --></label>
+        <name>Prop_Demo__c</name>
+    </fields>
+    <fields>
+        <label><!-- Prop Rent --></label>
+        <name>Prop_Rent__c</name>
+    </fields>
+    <startsWith>Consonant</startsWith>
+    <validationRules>
+        <errorMessage><!-- Error msg --></errorMessage>
+        <name>CheckFL</name>
+    </validationRules>
+</CustomObjectTranslation>

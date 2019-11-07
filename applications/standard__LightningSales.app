@@ -24,5 +24,8 @@
     <tabs>standard-OtherUserProfile</tabs>
     <tabs>standard-Case</tabs>
     <tabs>standard-Forecasting3</tabs>
+    <tabs>DL_Pro_Obj__c</tabs>
+    <tabs>URW_obj__c</tabs>
+    <tabs>Demo_Object_Checkin__c</tabs>
     <uiType>Lightning</uiType>
 </CustomApplication>

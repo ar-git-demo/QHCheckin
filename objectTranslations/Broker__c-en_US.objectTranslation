@@ -9,6 +9,10 @@
         <value>Brokers</value>
     </caseValues>
     <fields>
+        <label><!-- Broker Fld --></label>
+        <name>Broker_Fld__c</name>
+    </fields>
+    <fields>
         <label><!-- Email --></label>
         <name>Email__c</name>
     </fields>

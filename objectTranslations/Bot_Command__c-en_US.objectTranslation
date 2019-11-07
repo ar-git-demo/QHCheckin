@@ -17,6 +17,10 @@
         <name>Apex_Class__c</name>
     </fields>
     <fields>
+        <label><!-- Bot Fld --></label>
+        <name>Bot_Fld__c</name>
+    </fields>
+    <fields>
         <label><!-- Invocation Pattern --></label>
         <name>Pattern__c</name>
     </fields>

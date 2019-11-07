@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>DL Pro Child Obj</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>dls</value>
+    </caseValues>
+    <fields>
+        <label><!-- DL Pro Obj --></label>
+        <name>DL_Pro_Obj__c</name>
+        <relationshipLabel><!-- dls --></relationshipLabel>
+    </fields>
+    <startsWith>Consonant</startsWith>
+</CustomObjectTranslation>
