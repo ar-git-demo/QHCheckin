@@ -902,6 +902,7 @@
         <members>UserProvisioningRequest.SalesforceUserId</members>
         <members>UserProvisioningRequest.State</members>
         <members>UserProvisioningRequest.UserProvAccountId</members>
+        <members>test_obj_nov_7__c.New_Field__c</members>
         <name>CustomField</name>
     </types>
     <types>
@@ -1000,6 +1001,7 @@
         <members>User</members>
         <members>UserProvisioningRequest</members>
         <members>custome_object_playground_may7__c</members>
+        <members>test_obj_nov_7__c</members>
         <name>CustomObject</name>
     </types>
     <types>
@@ -1032,6 +1034,7 @@
         <members>Property__c</members>
         <members>Sample_Data_Import</members>
         <members>URW_obj__c</members>
+        <members>test_obj_nov_7__c</members>
         <name>CustomTab</name>
     </types>
     <types>
@@ -1166,6 +1169,7 @@
         <members>UserProvisioningLog-User Provisioning Log Layout</members>
         <members>UserProvisioningRequest-User Provisioning Request Layout</members>
         <members>custome_object_playground_may7__c-custome_object_playground_may7 Layout</members>
+        <members>test_obj_nov_7__c-test obj nov 7 Layout</members>
         <name>Layout</name>
     </types>
     <types>
@@ -1249,6 +1253,7 @@
         <members>User.ActiveUsers</members>
         <members>User.AdminUsers</members>
         <members>User.AllUsers</members>
+        <members>test_obj_nov_7__c.All</members>
         <name>ListView</name>
     </types>
     <types>
