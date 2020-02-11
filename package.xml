@@ -1013,7 +1013,6 @@
         <members>TopicAssignment</members>
         <members>User</members>
         <members>UserProvisioningRequest</members>
-        <members>custome_object_playground_may7__c</members>
         <members>test_obj_nov_7__c</members>
         <name>CustomObject</name>
     </types>
@@ -1036,7 +1035,6 @@
         <members>Property_Explorer1</members>
         <members>Property__c</members>
         <members>Sample_Data_Import</members>
-        <members>URW_obj__c</members>
         <members>test_obj_nov_7__c</members>
         <name>CustomTab</name>
     </types>
@@ -1161,7 +1159,6 @@
         <members>UserProvAccount-User Provisioning Account Layout</members>
         <members>UserProvisioningLog-User Provisioning Log Layout</members>
         <members>UserProvisioningRequest-User Provisioning Request Layout</members>
-        <members>custome_object_playground_may7__c-custome_object_playground_may7 Layout</members>
         <members>test_obj_nov_7__c-test obj nov 7 Layout</members>
         <name>Layout</name>
     </types>
@@ -1248,6 +1245,7 @@
         <name>ListView</name>
     </types>
     <types>
+        <members>AREval Std User</members>
         <members>Admin</members>
         <members>Analytics Cloud Integration User</members>
         <members>Analytics Cloud Security User</members>
